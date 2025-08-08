@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-jose
+python-multipart
+
+
+{
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0QGV4YW1wbGUuY29tIiwiZXhwIjoxNzUzOTY0NzY1fQ.EWpyiyDASoXJW2kpo8OsmhUjIZZr3DUA8bCHaJ0iDXw",
+    "token_type": "bearer"
+}
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0QGV4YW1wbGUuY29tIiwiZXhwIjoxNzUzOTY0NzY1fQ.EWpyiyDASoXJW2kpo8OsmhUjIZZr3DUA8bCHaJ0iDXw",
