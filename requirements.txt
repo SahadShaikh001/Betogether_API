@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 sqlalchemy
@@ -6,3 +7,13 @@ passlib[bcrypt]
 python-jose
 python-multipart
 
+=======
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-jose
+python-multipart
+email-validator
+>>>>>>> 4f4447a70f4a774e40751869788c5d0086421b94
